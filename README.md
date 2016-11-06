@@ -1,2 +1,4 @@
-# Contents_to_Projects
-List of Projects
+# CONTENTS
+- This contains all projects for Data Science, NLP and Machine Learning.
+- Done with Jupyter notebook.
+- And PYTHON is my favourite language.
