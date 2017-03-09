@@ -14,7 +14,7 @@
 
 ## Dimensionality reduction (PCA, T-SNE)
 
-- PCA
+- PCA : [PCA-logic] (http://nbviewer.jupyter.org/github/sam2015/Machine_Learning/blob/master/DimensionallityReduction/PCA/PCA_intiution.ipynb)
 - Recduce using T-SNE : [T-sne] (http://nbviewer.jupyter.org/github/sam2015/Machine_Learning/blob/master/DimensionallityReduction/Untitled.ipynb)
 
 ## Linear Regression
